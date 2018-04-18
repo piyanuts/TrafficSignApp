@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ป้ายจราจรน่ารู้</string>
+    <string name="my_name">นายปิยะนัฐ น้อยโอษฐ์</string>
+    <string name="my_major">หลักสูตรวิทยาการคอมพิวเตอร์</string>
+    <string name="my_univercity">คณะวิทยาศาสตร์และเทคโนโลยี มหาวิทยาลัยสวนดุสิต</string>
+    <string name="my_mobile">Mobile No.: 0946644010</string>
+    <string name="my_facebook">facebook: https://www.facebook.com/Piy4nutt</string>
+
 </resources>

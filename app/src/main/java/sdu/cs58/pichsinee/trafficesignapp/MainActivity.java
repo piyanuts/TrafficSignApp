@@ -53,4 +53,8 @@ public class MainActivity extends AppCompatActivity {
         startActivity(linkIntent);
     }//End clickLink Method
 
+    public void clickAboutMe(View view) {
+            Intent aboutMeIntent = new Intent(MainActivity.this, AboutMeActivity.class);
+            startActivity(aboutMeIntent);
+    }//end clickAboutMe Method
 }//End Class
